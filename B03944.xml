@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three hymns, by the Bishop of Bath and Wells. Author of the Manual of Prayers for the use of the schollars of Winchester Colledge.</title>
+            <author>Ken, Thomas, 1637-1711.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03944</idno><idno type="EEBO-CITATION">51617609</idno>
+  <idno type="VID">175270</idno>
+  <idno type="EEBO-PROQUEST">2240897990</idno>
+  
+            <idno type="STC">Wing K281CA</idno>
+            <idno type="STC">ESTC R179189</idno>
+            <idno type="OCLC">51617609</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175270)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2725:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three hymns, by the Bishop of Bath and Wells. Author of the Manual of Prayers for the use of the schollars of Winchester Colledge.</title>
+                  <author>Ken, Thomas, 1637-1711.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ch. Broome, at the Gun, at the West End of St. Paul's Church, 1700. And are to be sold by John Ramsay at the foot of his house within the foot of Con's Closs,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Bath and Wells = Thomas Ken.</note>
+                  <note>With 12 blank pages at end.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Hymns --  Texts --  Early works to 1800.</term>
+               <term type="topical_term">Hymns, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175270:1"/>
+            <pb facs="tcp:175270:1"/>
+            <pb facs="tcp:175270:2"/>
+            <pb facs="tcp:175270:2"/>
+            <pb facs="tcp:175270:3"/>
+            <pb facs="tcp:175270:3"/>
+            <p>THREE HYMNS, BY THE BISHOP OF <hi>BATH</hi> and <hi>WELLS.</hi> Author of the Manual of Prayers for the Use of the Schollars of <hi>Winche<g ref="char:EOLhyphen"/>ster</hi> Colledge.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ch: Broome,</hi> at the <hi>Gun,</hi> at the West End of St. <hi>Paul</hi>'s Church, 1700.</p>
+            <p>And are to be Sold by <hi>John Ramsay</hi> at his House within the Foot of <hi>Con</hi>'s Closs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="hymns">
+            <pb n="2" facs="tcp:175270:4"/>
+            <head>Three HYMNS for Morning, Even<g ref="char:EOLhyphen"/>ing, and Midnight;</head>
+            <byline>By <hi>Mr. Tho: Cane. D. D.</hi>
+            </byline>
+            <div n="morning" type="hymn">
+               <lg>
+                  <l>AWake my Soul, and with the Sun▪</l>
+                  <l>Thy dayly Stage of Duty run:</l>
+                  <l>Shake of dull Sloth and early rise,</l>
+                  <l>To pay thy Morning Sacrifice.</l>
+               </lg>
+               <lg>
+                  <l>Redeem thy mispent Time that's past,</l>
+                  <l>Live this Day as if 'twere thy last:</l>
+                  <l>T'improve thy Talent take due care,</l>
+                  <l>'Gainst the <hi>Great Day</hi> thy self prepare.</l>
+               </lg>
+               <lg>
+                  <l>Let all thy Converse be sincere,</l>
+                  <l>Thy Conscience as the Noon-Day clear;</l>
+                  <l>Think how All-seing GOD thy Ways,</l>
+                  <l>And all thy secret Thoughts surveys.</l>
+               </lg>
+               <lg>
+                  <l>Influenc'd by the Light Divine,</l>
+                  <l>Let thy own Light in good works shine:</l>
+                  <l>Reflect all Heavens propitious ways,</l>
+                  <l>In ardent love and chearful Praise.</l>
+               </lg>
+               <lg>
+                  <l>Wake and lift up thy self, my Heart,</l>
+                  <l>And with the Angels bear thy part,</l>
+                  <l>Who all Night long unwearied sing,</l>
+                  <l>
+                     <hi>Glory to the Eternal King.</hi>
+                  </l>
+               </lg>
+               <pb n="3" facs="tcp:175270:4"/>
+               <lg>
+                  <l>I wake, I wake, ye Heavenly Choire,</l>
+                  <l>May your Devotion me inspire,</l>
+                  <l>That I like you my Age may spend,</l>
+                  <l>Like you may on my GOD attend.</l>
+               </lg>
+               <lg>
+                  <l>May I like you in GOD delight,</l>
+                  <l>Have all day long my God in sight,</l>
+                  <l>Perform like you my Maker's Will,</l>
+                  <l>O may I never more do ill.</l>
+               </lg>
+               <lg>
+                  <l>Had I your Wings, to Heaven I'd fly,</l>
+                  <l>But GOD shall that defect supply,</l>
+                  <l>And my Soul wing'd with warm desire</l>
+                  <l>Shall all day long to Heav'naspire.</l>
+               </lg>
+               <lg>
+                  <l>Glory to thee who safe hast keept,</l>
+                  <l>And hast refresht me whilst <hi>I</hi> sleept.</l>
+                  <l>Grant Lord, when I from Death shall wake,</l>
+                  <l>I may of endless Light partake.</l>
+               </lg>
+               <lg>
+                  <l>I would not wake, nor rise a gain,</l>
+                  <l>Ev'n Heaven it self I would disdain,</l>
+                  <l>Wer't not thou there to be enjoy'd</l>
+                  <l>And I in Hymns to be imploy'd.</l>
+               </lg>
+               <lg>
+                  <l>Heav'n is dear Lord where e'r thou art</l>
+                  <l>O! never then from me depart;</l>
+                  <l>For to my Soul, 'tis Hell to be</l>
+                  <l>But for one Moment without Thee.</l>
+               </lg>
+               <pb n="4" facs="tcp:175270:5"/>
+               <lg>
+                  <l>Lord! I my Vows to the renew:</l>
+                  <l>Scatter my Sins as Morning-Dew,</l>
+                  <l>Guard my first springs of thought &amp; wi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>▪</l>
+                  <l>And with thy self my Spirit fill.</l>
+               </lg>
+               <lg>
+                  <l>Direct control, suggest this day,</l>
+                  <l>All I design, or do or say;</l>
+                  <l>That all my Powers, with all their migh<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</l>
+                  <l>In thy sole Glory may unite.</l>
+               </lg>
+               <lg type="refrain">
+                  <l>
+                     <hi>Praise GOD, from whom all Blessings flow▪</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him all creatures here below;</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him above y' Anglick host:</hi>
+                  </l>
+                  <l>
+                     <hi>Praise <hi>Father, Son,</hi>and <hi>Holy-Ghost:</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="evening" type="hymn">
+               <head>An Evening HYMN.</head>
+               <lg>
+                  <l>GLory to Thee, my God this Nigh<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</l>
+                  <l>For all the Blessings of the Light▪</l>
+                  <l>Keep me, O keep me! King of Kings▪</l>
+                  <l>Under thy own Almighty Wings,</l>
+               </lg>
+               <lg>
+                  <l>Forgive me Lord, for thy dear Son,</l>
+                  <l>The ill that I this day have done,</l>
+                  <l>That with the World, my self and Thee▪</l>
+                  <l>I, e'r I sleep, at peace may be.</l>
+               </lg>
+               <lg>
+                  <l>Teach me to live, that I may dread</l>
+                  <l>The Grave as little as my Bed.</l>
+                  <pb n="5" facs="tcp:175270:5"/>
+                  <l>Teach me to die, that so I may</l>
+                  <l>Triumphing rise at the last day.</l>
+               </lg>
+               <lg>
+                  <l>O may my Soul on the repose,</l>
+                  <l>And with sweet sleep mine eye lids close</l>
+                  <l>Sleep that may me more vig'rous make</l>
+                  <l>To serve my GOD when I awake.</l>
+               </lg>
+               <lg>
+                  <l>When in the Night I sleepless ly,</l>
+                  <l>My Soul with Heav'nly thoughts supply</l>
+                  <l>Let no ill Dreams disturb my rest,</l>
+                  <l>No powers of darkness me molest.</l>
+               </lg>
+               <lg>
+                  <l>Dull sleep of sense me to deprive,</l>
+                  <l>I am but half my days alive;</l>
+                  <l>Thy faithful Lovers, Lord, are griev'd,</l>
+                  <l>To ly so long of the bereav'd,</l>
+               </lg>
+               <lg>
+                  <l>But tho sleep o'r my frailty reigns,</l>
+                  <l>Let it not hold me long in Chains,</l>
+                  <l>And now and then let loose my Heart,</l>
+                  <l>Till it an <hi>Hallelujah</hi> dart.</l>
+               </lg>
+               <lg>
+                  <l>The faster sleep the sense doth bind,</l>
+                  <l>The more unfetter'd is the Mind;</l>
+                  <l>O may my Soul, from matter free,</l>
+                  <l>Thy unvail'd Goodness waking see,</l>
+               </lg>
+               <lg>
+                  <l>O! when shall I in endless day,</l>
+                  <l>For ever chase dark sleep away,</l>
+                  <l>And endless Praise with th' Heavenly Choire</l>
+                  <pb n="6" facs="tcp:175270:6"/>
+                  <l>Incessant sing and never tire?</l>
+               </lg>
+               <lg>
+                  <l>You my blest Guardians whilst I sleep▪</l>
+                  <l>Close to my Bed your Vigils keep,</l>
+                  <l>Divine Love into me instill,</l>
+                  <l>Stop all the Avenues of ill.</l>
+               </lg>
+               <lg>
+                  <l>Thought to thought with my Soul co<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ver<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>▪</l>
+                  <l>Celestial Joyes to me rehearse.;</l>
+                  <l>And in my stead, all the Night long,</l>
+                  <l>Sing to my GOD a gratefull Song.</l>
+               </lg>
+               <lg type="refrain">
+                  <l>
+                     <hi>Praise God, from whom all Blessings flow▪</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him all creatures here below▪</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him above, y' Angelick host:</hi>
+                  </l>
+                  <l>
+                     <hi>Praise <hi>Father, Son,</hi> and <hi>Holy-Ghost.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="midnight" type="hymn">
+               <head>A Mid-Night HYMN.</head>
+               <lg>
+                  <l>LOrd, now my sleep does me forsak<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</l>
+                  <l>The sole Possession of me take,</l>
+                  <l>Let no vain fancy me illude,</l>
+                  <l>No one impure desire intrude.</l>
+               </lg>
+               <lg>
+                  <l>Blest Angels while we silent ly,</l>
+                  <l>You <hi>Hallelujahs</hi> sing on high;</l>
+                  <l>You, ever wakeful near the Throne,</l>
+                  <l>Prostrate adore the Three in One,</l>
+               </lg>
+               <lg>
+                  <l>I now awake do with you joyn</l>
+                  <l>To praise our God in Hymns Divine:</l>
+                  <pb n="7" facs="tcp:175270:6"/>
+                  <l>With you in Heaven I hope to dwell,</l>
+                  <l>and bid the Night &amp; World Farewell.</l>
+               </lg>
+               <lg>
+                  <l>My Soul when I shake off this dust</l>
+                  <l>Lord in thy Arms I will entrust:</l>
+                  <l>O make me thy peculiar care?</l>
+                  <l>Some Heav'nly Mansion me prepare!</l>
+               </lg>
+               <lg>
+                  <l>Give me a place at thy Saints feet,</l>
+                  <l>Or some fall'n Angel's vacant seat;</l>
+                  <l>I'll strive to sing as loud as they.</l>
+                  <l>Who sit above in brighter day.</l>
+               </lg>
+               <lg>
+                  <l>O may I always ready stand</l>
+                  <l>With my Lamp burning in my hand,</l>
+                  <l>May I in sight of Heav'n rejoyce,</l>
+                  <l>When e're I hear the Bridegrooms voice</l>
+               </lg>
+               <lg>
+                  <l>Glory to thee in light aray'd,</l>
+                  <l>Who light thy dwelling place hast made</l>
+                  <l>An immense Occean of bright beams,</l>
+                  <l>From thy All-glorious Godhead streams</l>
+               </lg>
+               <lg>
+                  <l>The Sun in its Meridian height,</l>
+                  <l>Is very darkness in thy sight▪</l>
+                  <l>My Soul, O lighten, and enflame,</l>
+                  <l>With thought &amp; love of thy great Name</l>
+               </lg>
+               <lg>
+                  <l>Blest Jesus thou on Heav'n intent,</l>
+                  <l>Whole Nights hast in Devotion spent</l>
+                  <pb n="8" facs="tcp:175270:7"/>
+                  <l>But I frail creature, soon am tir'd</l>
+                  <l>And all my Zeal is soon expir'd.</l>
+               </lg>
+               <lg>
+                  <l>My Soul how canst thou wearie grow,</l>
+                  <l>Of Antedating Heav'n below,</l>
+                  <l>In sacred Hyms, and Divine Love,</l>
+                  <l>Which will eternal be above?</l>
+               </lg>
+               <lg>
+                  <l>Shine on me Lord new Life impart,</l>
+                  <l>Fresh ardours kindle in my heart;</l>
+                  <l>One ray of thy All-quickning light,</l>
+                  <l>Dispels the sloth and clouds of night.</l>
+               </lg>
+               <lg>
+                  <l>Lord, lest the tempter me surprize,</l>
+                  <l>Watch over thine own Sacrifice.</l>
+                  <l>All loose, all idle thoughts cast out,</l>
+                  <l>And make my very Dreams devout.</l>
+               </lg>
+               <lg type="refrain">
+                  <l>
+                     <hi>Praise God from whom all blessings flow,</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him all Creatures here below,</hi>
+                  </l>
+                  <l>
+                     <hi>Praise him above y' Angelick Host,</hi>
+                  </l>
+                  <l>
+                     <hi>Praise <hi>Father, Son</hi> and <hi>Holy Ghost.</hi>
+                     </hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175270:7"/>
+            <pb facs="tcp:175270:8"/>
+            <pb facs="tcp:175270:8"/>
+            <pb facs="tcp:175270:9"/>
+            <pb facs="tcp:175270:9"/>
+            <pb facs="tcp:175270:10"/>
+            <pb facs="tcp:175270:10"/>
+            <pb facs="tcp:175270:11"/>
+            <pb facs="tcp:175270:11"/>
+            <pb facs="tcp:175270:12"/>
+            <pb facs="tcp:175270:12"/>
+            <pb facs="tcp:175270:13"/>
+            <pb facs="tcp:175270:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
